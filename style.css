@@ -247,7 +247,10 @@ nav ul li a{
   padding: 70px 0;
   background: #efefef;
 }
-
+.Character-service .something img{
+  width: 40%;
+  border-radius: 7px;
+}
 .Character-box{
   width: 80%;
   display: flex;
@@ -263,7 +266,6 @@ nav ul li a{
   color: white;
   position: relative;
 }
-
 
 .Character-service img{
   width: 100%;
@@ -530,4 +532,3 @@ padding: 100px 0 20px;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Noto Sans JP', sans-serif;
 font-family: 'Poppins', sans-serif;
-
