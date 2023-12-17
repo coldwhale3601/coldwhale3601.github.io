@@ -1,1 +1,1 @@
-# coldwhale3601.github.io
+# corny-island.github.io
